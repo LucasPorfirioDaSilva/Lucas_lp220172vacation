@@ -1,0 +1,9 @@
+C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\app\bin\Debug\app.exe.config
+C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\app\bin\Debug\app.exe
+C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\app\bin\Debug\app.pdb
+C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\app\bin\Debug\bll.dll
+C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\app\bin\Debug\bll.pdb
+C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\app\obj\Debug\app.exe
+C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\app\obj\Debug\app.pdb
