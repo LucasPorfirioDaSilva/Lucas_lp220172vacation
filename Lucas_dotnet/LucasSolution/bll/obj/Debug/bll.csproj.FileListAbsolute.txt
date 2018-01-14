@@ -3,3 +3,4 @@ C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\bll\bin\Debug\bl
 C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\bll\obj\Debug\bll.csproj.CoreCompileInputs.cache
 C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\bll\obj\Debug\bll.dll
 C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\bll\obj\Debug\bll.pdb
+C:\Users\acer\Lucas_lp220172vacation\Lucas_dotnet\LucasSolution\bll\obj\Debug\bll.csprojResolveAssemblyReference.cache

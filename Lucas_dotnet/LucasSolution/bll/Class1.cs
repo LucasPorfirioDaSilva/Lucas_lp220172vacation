@@ -26,4 +26,19 @@ namespace bll
 
     }
 
+    public class Maths
+    {
+        public double Quadrada(int x)
+        {
+            return (x * x);   
+        }
+
+        public double Raiz(int x)
+        {
+            return Math.Sqrt(x);
+        }
+    }
 }
+
+
+
