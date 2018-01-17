@@ -6,6 +6,7 @@ while i < 5:
 
 i=0
 print('retirado o intruso')
+
 del cavaleiros[1]
 
 while i < 4:
